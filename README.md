@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nudelsuppe42/Nudelsuppe42/output/snake.svg" alt="Snake animation" />
-
-###
